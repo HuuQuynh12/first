@@ -1,0 +1,18 @@
+
+button a{
+    color: white;
+}
+p{
+    padding: 20px;
+}
+th{
+    background-color: yellowgreen;
+    text-align: center !important;
+    border: 5px solid white !important;
+}
+td{
+    background-color: grey;
+    border-left: 0px !important;
+    border: 5px solid white !important;
+    text-align: center;
+}
